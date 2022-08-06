@@ -5,7 +5,7 @@ Bio:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning High School
 -->
-If you like to support me, you can donate a very small amount(under 3$) here as a **tip**🤗:\
+If you like to support me, you can donate a few bucks here as a **tip**🤗:\
 **WARNING** : Send coins only to their respective address. Sending to other address may lead to permanent loss of coins.\
 Below mentioned bitcoin address is a **Bech32** address. Some payment gateways *will not accept Bech32*. In those case, please don't send any coins.
 
